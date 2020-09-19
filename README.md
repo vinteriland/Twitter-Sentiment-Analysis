@@ -22,6 +22,8 @@ The program also provides the functionality to rerieve tweets based on their cla
 
 Finally the plot is projected for the distribution of subgroups.
 
+![](wordCloud.png) ![](Plot1.png) ![](plot2.png)
+
 
 ## Required Libraries
 ### tweepy
